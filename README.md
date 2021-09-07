@@ -22,3 +22,10 @@
   
   ![Snake animation](https://github.com/ferldb/ferldb/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
+Linguagem | Conhecimento
+--------- | ------
+Java      | Advanced
+C         | Intermediary
+Python    | Basic
+JavaScript| Intermediary
