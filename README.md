@@ -6,6 +6,17 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferldb&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
  
+ ##
+ 
+ Linguagem | Conhecimento
+--------- | ------
+Java      | Advanced
+C         | Intermediary
+Python    | Basic
+JavaScript| Intermediary
+ 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fer-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Fer-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -23,9 +34,3 @@
   ![Snake animation](https://github.com/ferldb/ferldb/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-Linguagem | Conhecimento
---------- | ------
-Java      | Advanced
-C         | Intermediary
-Python    | Basic
-JavaScript| Intermediary
