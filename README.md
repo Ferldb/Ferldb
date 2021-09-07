@@ -1,4 +1,4 @@
-### Olá me chamo Fernando Luis 👋
+### Olá me chamo Fernando Luis, sou um estudante de desenvolvimento e apaixonado por tecnologia
 
  <div>
   <a href="https://github.com/ferldb">
