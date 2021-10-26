@@ -8,7 +8,7 @@
 
  ##
  
- Language    | Knowledge
+Language    | Knowledge
 ---------    | ------
 Java         | Advanced
 C            | Intermediary
