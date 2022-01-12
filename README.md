@@ -14,7 +14,7 @@ Java         | Advanced
 C            | Intermediary
 Python       | Basic
 JavaScript   | Intermediary
-React Native | Basic
+React Native | Intermediary
  
  ##
  
