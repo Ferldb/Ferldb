@@ -1,4 +1,4 @@
-### Olá me chamo Fernando Luis, sou um estudante de desenvolvimento e apaixonado por tecnologia
+### My name is Fernando, I'm a full-stack developer 
 
  <div>
   <a href="https://github.com/Ferldb">
