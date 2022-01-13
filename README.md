@@ -10,7 +10,7 @@
  ##
  
  
-<h2> My knowledge <h2>
+<h2> My knowledge </h2>
  
 Language    | Knowledge
 ---------    | ------
