@@ -1,4 +1,4 @@
-### My name is Fernando, I'm a full-stack developer 
+### My name is Fernando, I'm a full-stack developer 💻
 
  <div>
   <a href="https://github.com/Ferldb">
