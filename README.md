@@ -20,6 +20,7 @@ React Native | Intermediary
  ##
  
 <div style="display: inline_block"><br>
+  Technologies that I used in projects
   <img align="center" alt="Fer-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Fer-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fer-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
